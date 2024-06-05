@@ -1,4 +1,5 @@
 Site com a notícia da origem do Android feito em HTML e CSS.
+
 Link: https://android-news.netlify.app/
 
 ![image](https://github.com/YuriGit909/android-news/assets/127057738/f72e2272-73fd-4e34-b966-fddf26d63316)
